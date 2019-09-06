@@ -6,7 +6,10 @@ namespace MyApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("What is your shoe number");
+            int shoe;
+            shoe = int.Parse(Console.ReadLine());
+            Console.WriteLine("Thank you!");
             Console.ReadLine();
         }
     }
