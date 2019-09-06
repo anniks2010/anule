@@ -1,0 +1,11 @@
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\bin\Debug\netcoreapp2.1\MyApp4.deps.json
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\bin\Debug\netcoreapp2.1\MyApp4.runtimeconfig.json
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\bin\Debug\netcoreapp2.1\MyApp4.runtimeconfig.dev.json
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\bin\Debug\netcoreapp2.1\MyApp4.dll
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\bin\Debug\netcoreapp2.1\MyApp4.pdb
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.AssemblyInfoInputs.cache
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.AssemblyInfo.cs
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.dll
+C:\Users\Kodu\Desktop\MyApp4\MyApp4\obj\Debug\netcoreapp2.1\MyApp4.pdb
